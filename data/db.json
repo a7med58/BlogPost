@@ -1,0 +1,40 @@
+{
+    "posts":[
+
+        {
+      "id": 1,
+      "title": "AI Artical",
+      "img": "https://www.jair.org/public/journals/1/homepageImage_en_US.jpg",
+      "description": "Artifical Intelligence",
+      "by": "Admin"
+    },
+    {
+      "id": 2,
+      "title": "Programin Artical",
+      "img": "https://www.jair.org/public/journals/1/homepageImage_en_US.jpg",
+      "description": "Programing Skills",
+      "by": "Admin"
+    },
+    {
+      "id": 3,
+      "title": "Graphic Artical",
+      "img": "https://www.jair.org/public/journals/1/homepageImage_en_US.jpg",
+      "description": "Graphic Tools",
+      "by": "Admin"
+    },
+    {
+      "id": 4,
+      "title": "Markiting Artical",
+      "img": "https://www.jair.org/public/journals/1/homepageImage_en_US.jpg",
+      "description": "Markiting Stratigic",
+      "by": "Admin"
+    },
+    {
+      "id": 5,
+      "title": "Secrtria Artical",
+      "img": "https://www.jair.org/public/journals/1/homepageImage_en_US.jpg",
+      "description": "Secrtria Rolls",
+      "by": "Admin"
+    }
+    ]
+}
